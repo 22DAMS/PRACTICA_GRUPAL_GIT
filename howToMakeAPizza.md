@@ -7,3 +7,6 @@
 7. Rallar el queso
 8. Picar las verduras/frutas
 9. Cocinar la proteina (opcional)
+10. Preparar la pizza con los ingredientes según la orden.
+11. Hornear.
+12. Retirar del horno y porcionar.
